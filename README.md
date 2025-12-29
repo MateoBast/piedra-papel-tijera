@@ -1,1 +1,1 @@
-https://mateobast.github.io/piedra-papel-tijera/#/prejuego
+https://mateobast.github.io/piedra-papel-tijera/#/
